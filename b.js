@@ -1,9 +1,5 @@
 
-        /**
-         * MUSIC DATA (Playlist)
-         * Bạn có thể thay đổi thuộc tính `src` thành đường dẫn file nhạc của bạn.
-         * Ví dụ: src: "./music/bai-hat-1.mp3"
-         */
+  
         const playlistData = [
             
             {
